@@ -2,7 +2,7 @@
 # Pomodoro Clock
 
 Project from Mastering Front-End Web Development Course(freeCodeCamp)
-This is a Pomodoro Clock project that allows you to manage your work and break sessions effectively. It's designed to help you stay productive and maintain a balanced work schedule. The project is part of the FreeCodeCamp curriculum and fulfills a set of user stories.
+It's designed to help you stay productive and maintain a balanced work schedule. The project is part of the FreeCodeCamp curriculum and fulfills a set of user stories.
 
 
 
